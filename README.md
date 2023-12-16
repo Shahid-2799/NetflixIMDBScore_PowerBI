@@ -28,5 +28,7 @@ The following things were perfromed using Power BI:
 •	Gradient Bar Chart Color
 
 Dashboard:
+•	[Download the file](https://github.com/Shahid-2799/NetflixIMDBScore_PowerBI/blob/main/Netflix_IMDB.pbix) and open in Power BI Desktop for interactive viewing.
+•	[See a screenshot](https://github.com/Shahid-2799/NetflixIMDBScore_PowerBI/blob/main/NetFlix_IMDBShows.png) of the Dashboard in pdf.
 
 
